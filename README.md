@@ -3,7 +3,6 @@
 A full-stack web platform designed to bridge the gap between students and alumni, enabling mentorship, career guidance, and professional networking.
 
 ## ✨ Features
-
 - Student and Alumni Sign-up/Login
 - Alumni can post opportunities and answer questions
 - Students can ask doubts and request to connect
