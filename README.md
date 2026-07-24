@@ -26,7 +26,6 @@ Alumni_Connect/
 ```
 
 
-
 ## 🚀 How to Run Locally
 
 ### 1. Clone the Repository
